@@ -23,17 +23,20 @@ Calculadora en PSeInt con múltiples funciones: operaciones básicas, manejo de 
 ## Manuales
 
 Puedes descargar el manual técnico y de usuario completo aquí:  
-[Manual Técnico y de Usuario.pdf](./Manual%20Técnico%20y%20de%20Usuario.pdf)
+[Manual Técnico y de Usuario](./ManualTecnicoYDeUsuario.pdf)
+
 
 ## Capturas
 
-![Menú de la calculadora](./MENÚ.%20PNG.png)
+![Menú de la calculadora](./MENU.png)
 
 
 ## Autor
 
 Josué Emanuel David Reyes Yumán  
 Carnet: 7690-25-10867
+Alan Raúl Ramos Lucas CARNET: 7690-25-9925 
+Fernanda Carolina Méndez López CARNET: 7690-25 9384
 
 ## Licencia
 
