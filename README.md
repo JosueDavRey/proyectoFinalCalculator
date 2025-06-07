@@ -2,7 +2,8 @@
 # calculadora-pseint
 
 ## Descripción
-
+Proyecto Final de ingenieria en sistemas de informacion 
+Seccion: B
 Calculadora en PSeInt con múltiples funciones: operaciones básicas, manejo de matrices, figuras y estadísticas.
 
 ## Funcionalidades
@@ -41,7 +42,3 @@ Alan Raúl Ramos Lucas CARNET: 7690-25-9925
 
 
 Fernanda Carolina Méndez López CARNET: 7690-25 9384
-
-## Licencia
-
-Este proyecto está bajo la licencia MIT - ver archivo [LICENSE](LICENSE)
