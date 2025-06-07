@@ -35,7 +35,11 @@ Puedes descargar el manual técnico y de usuario completo aquí:
 
 Josué Emanuel David Reyes Yumán  
 Carnet: 7690-25-10867
+
+
 Alan Raúl Ramos Lucas CARNET: 7690-25-9925 
+
+
 Fernanda Carolina Méndez López CARNET: 7690-25 9384
 
 ## Licencia
