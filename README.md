@@ -27,7 +27,8 @@ Puedes descargar el manual técnico y de usuario completo aquí:
 
 ## Capturas
 
-![Menú principal de la calculadora](./MENU.PNG)
+![Menú de la calculadora](./MENÚ.%20PNG.png)
+
 
 ## Autor
 
